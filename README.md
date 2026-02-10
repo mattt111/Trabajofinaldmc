@@ -27,10 +27,10 @@ Para ejecutar este proyecto de forma local:
     `streamlit run app.py`
 
 ## 4. Enlaces
-* **Repositorio GitHub**: [PEGA AQUÍ EL LINK DE TU REPO]
-* **App Desplegada**: [PEGA AQUÍ EL LINK DE TU APP EN STREAMLIT CLOUD]
+ **Repositorio GitHub**: [PEGA AQUÍ EL LINK DE TU REPO]
+ **App Desplegada**: [PEGA AQUÍ EL LINK DE TU APP EN STREAMLIT CLOUD]
 
 ## 5. Autor
-* **Estudiante**: Matt Patrick Arribasplata Mas
-* **Curso**: Python Fundamental
-* **Año**: 2026
+ **Estudiante**: Matt Patrick Arribasplata Mas
+ **Curso**: Python Fundamental
+ **Año**: 2026
