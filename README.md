@@ -27,7 +27,7 @@ Para ejecutar este proyecto de forma local:
 
 ## 4. Enlaces
  **Repositorio GitHub**: [PEGA AQUÍ EL LINK DE TU REPO]
- **App Desplegada**: [PEGA AQUÍ EL LINK DE TU APP EN STREAMLIT CLOUD]
+ **App Desplegada**:https://trabajofinaldmc-mattarribasplatamas.streamlit.app/
 
 ## 5. Autor
  **Estudiante**: Matt Patrick Arribasplata Mas
