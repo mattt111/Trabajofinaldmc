@@ -20,10 +20,8 @@ La navegación se realiza mediante un menú lateral con los siguientes módulos:
 
 ## 3. Instrucciones de Ejecución
 Para ejecutar este proyecto de forma local:
-1.  Clonar el repositorio.
-2.  Instalar las dependencias:  
-    `pip install -r requirements.txt`
-3.  Ejecutar la aplicación:  
+1. Descargar el repositorio
+2.  Ejecutar la aplicación:  
     `streamlit run app.py`
 
 ## 4. Enlaces
