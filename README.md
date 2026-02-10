@@ -21,7 +21,7 @@ La navegación se realiza mediante un menú lateral con los siguientes módulos:
 ## 3. Instrucciones de Ejecución
 Para ejecutar este proyecto de forma local:
 1. Descargar el repositorio
-2. Verificar la version del streamlit en (requirements).
+2. Verificar la version del streamlit 1.53.1.
 3.  Ejecutar la aplicación en cmd:  
     `streamlit run app.py`
 
