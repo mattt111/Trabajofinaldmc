@@ -26,7 +26,7 @@ Para ejecutar este proyecto de forma local:
     `streamlit run app.py`
 
 ## 4. Enlaces
- **Repositorio GitHub**: [PEGA AQUÍ EL LINK DE TU REPO]
+ **Repositorio GitHub**:https://github.com/mattt111/Trabajofinaldmc.git
  **App Desplegada**:https://trabajofinaldmc-mattarribasplatamas.streamlit.app/
 
 ## 5. Autor
