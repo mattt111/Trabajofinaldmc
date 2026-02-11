@@ -80,6 +80,7 @@ elif Opcion == "Ejercicio 1" :
             else:
                 st.warning(f"Aviso te estas excediendo")
                 st.write(f"Por la cantidad de: {diferencia}")
+#Resolviendo el ejercicio 2
 
 elif Opcion == "Ejercicio 2":
     col1, col2, col3 = st.columns([1, 2, 1])
@@ -187,7 +188,7 @@ elif Opcion == "Ejercicio 3":
                 st.write(f" {nombre} (Inversión: {presupuesto_original})")
                 st.info(f" Retorno esperado en {meses} meses:  S/ {ganancia:.2f}")
 
-
+#Ejercicio 4
 
 elif Opcion == "Ejercicio 4":
     st.header("Programación Orientada a Objetos")
@@ -240,3 +241,4 @@ elif Opcion == "Ejercicio 4":
             st.write(f"Presupuesto: {obj_actividad.presupuesto} | Gasto: {obj_actividad.gasto_real}")
 
             st.markdown("---")
+
