@@ -30,6 +30,15 @@ st.sidebar.write(" ")
 st.sidebar.write(" ")
 st.sidebar.write(" ")
 st.sidebar.write(" ")
+st.sidebar.write(" ")
+st.sidebar.write(" ")
+st.sidebar.write(" ")
+st.sidebar.write(" ")
+st.sidebar.write(" ")
+st.sidebar.write(" ")
+st.sidebar.write(" ")
+st.sidebar.write(" ")
+st.sidebar.write(" ")
 st.sidebar.write("Elaborador por:")
 st.sidebar.write("Matt Arribasplata")
 # home
@@ -229,4 +238,5 @@ elif Opcion == "Ejercicio 4":
             # Detalle adicional
 
             st.write(f"Presupuesto: {obj_actividad.presupuesto} | Gasto: {obj_actividad.gasto_real}")
+
             st.markdown("---")
