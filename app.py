@@ -193,8 +193,7 @@ elif Opcion == "Ejercicio 3":
 elif Opcion == "Ejercicio 4":
     st.header("Programación Orientada a Objetos")
     st.markdown("---")
-
-    # Definimos las actividades
+#La clase
 
     class Nombreclase:
         def __init__(self, nombre, tipo, presupuesto, gasto_real):
@@ -241,4 +240,5 @@ elif Opcion == "Ejercicio 4":
             st.write(f"Presupuesto: {obj_actividad.presupuesto} | Gasto: {obj_actividad.gasto_real}")
 
             st.markdown("---")
+
 
