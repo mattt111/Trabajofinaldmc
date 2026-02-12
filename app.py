@@ -134,9 +134,9 @@ elif Opcion == "Ejercicio 2":
             diferencia = presupuestoparalalista - gasto
 
             if gasto <= presupuestoparalalista:
-                st.success(f"✅ {nombre_act}: Cumple el presupuesto. (Sobra: {diferencia})")
+                st.success(f" {nombre_act}: Cumple el presupuesto. (Sobra: {diferencia})")
             else:
-                st.error(f"❌ {nombre_act}: Excedió el presupuesto. (Faltó: {abs(diferencia)})")
+                st.error(f"{nombre_act}: Excedió el presupuesto. (Faltó: {abs(diferencia)})")
     else:
         st.info("Aún no has agregado ninguna actividad.")
         
@@ -240,5 +240,6 @@ elif Opcion == "Ejercicio 4":
             st.write(f"Presupuesto: {obj_actividad.presupuesto} | Gasto: {obj_actividad.gasto_real}")
 
             st.markdown("---")
+
 
 
