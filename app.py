@@ -221,7 +221,7 @@ elif Opcion == "Ejercicio 4":
         for datos in st.session_state.lista_actividades:
 
 
-            obj_actividad = Nombreclase(
+            obj_actividad = Clase_Actividad(
                 datos["Nombre"], 
                 datos["Tipo"], 
                 datos["Presupuesto"], 
@@ -240,6 +240,7 @@ elif Opcion == "Ejercicio 4":
             st.write(f"Presupuesto: {obj_actividad.presupuesto} | Gasto: {obj_actividad.gasto_real}")
 
             st.markdown("---")
+
 
 
 
